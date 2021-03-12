@@ -7,3 +7,5 @@ While some algorithms were provided via https://github.com/aimacode/aima-python 
 The spreadsheet keeps tab of the generated puzzle and the times for all algorithms.
 
 In terms of speed and efficiency, it was safe to assume that A* manhattan takes the top. This is likely due to the fact that manhattan accounts for the distance needed for a tile to be placed in the correct position, rather than just simply detecting if the tile is misplaced.
+
+The search.py and utils.py are the provided algorithms, however as some modifications needed to be made to correct some functions (eg. manhattan distance function formula was incorrect), they are seen in a2.py.
