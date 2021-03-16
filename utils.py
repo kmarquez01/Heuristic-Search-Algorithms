@@ -1,3 +1,5 @@
+#From  https://github.com/aimacode/aima-python and added here as reference
+
 """Provides some utilities widely used by other modules"""
 
 import bisect
